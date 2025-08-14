@@ -1,4 +1,4 @@
-# 🏦 Bank Management System — Java + MySQL
+# 🏦 Bank Management System - Java + MySQL
 
 A **Bank Management System** built using **Java** and **MySQL**, providing a secure and user-friendly platform for managing banking operations such as transactions and balance inquiries.  
 This project is ideal for learning **Java Swing**, **JDBC**, and **database integration**.
